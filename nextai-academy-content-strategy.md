@@ -4,17 +4,18 @@
 > **Product:** AI Agents & Automation — ৳3,999 — live Bangla cohort — proposed start **Tue 3 Nov 2026** *(confirm before any date goes on a creative)*
 > **Built from:** `nextai-academy-persona.md` · `nextai-academy-competitor-research.md` · `nextai-academy-meta-plan.md`
 > **Prepared:** 6 October 2026
+> **Updated:** 8 October 2026: Week 1 now runs **four story ads at ৳1,000/day for 7 days** (Section 4A). Video-length rules now come with their reasoning (Section 1.5).
 
 ---
 
 ## How to Use This Brief
 
-- **Week 1 is fully specified.** Scripts, on-screen text, ad copy and specs. Produce exactly these by **Sun 11 Oct**.
+- **Week 1 = four story ads (Section 4A).** Beats, Bangla lines, copy, lengths and the reason each one should work now. Produce them by **Sun 11 Oct**. The demo-led scripts in Section 4 (A1/B1/C1) are now **backups** and the source of the demo footage every story uses.
 - **Weeks 2 and 3 branch on data.** Each has ready-to-shoot options per winning angle. After each weekend review, the marketer tells the team **which branch to produce** (Section 9 maps results to actions).
 - **One shoot day feeds three weeks.** Section 3 has a single shot list. Film everything on one day; edit per week.
-- **Every asset has an ID** (A1, B1, C1, W2-A-H1, R3…). Use the same ID in the file name, the ad name and the WhatsApp prefilled code, so sales can be traced to the creative.
+- **Every asset has an ID** (ST1, A1, W2-A-H1, R3…). Use the same ID in the file name, the ad name and the WhatsApp prefilled code, so sales can be traced to the creative.
 
-> ⚠️ **Hard dependency:** the ads show the real AI employee working. **The demo system (lead → reply → CRM → WhatsApp handoff → weekly report) must actually run before the shoot.** If it isn't ready, tell the marketer now. Week 1 can then lead with the founder ad (C1) and statics while the demo is finished.
+> ⚠️ **Hard dependency:** the ads show the real AI employee working. **The demo system (lead → reply → CRM → WhatsApp handoff → weekly report) must actually run before the shoot.** Every Week 1 story ad needs it. If it isn't ready, tell the marketer now: Week 1 would then fall back to the founder-led C1 script and statics while the demo is finished.
 
 ---
 
@@ -63,10 +64,38 @@
 **Video rules**
 - Hook in the **first 2 seconds**, visually *and* in text (most people watch muted)
 - **Bangla captions burned in**, word-by-word style, high contrast
-- Cold-audience ads 20–45 s; warm/retargeting 45–90 s; organic up to 3 min
+- Length depends on the job the video does. See **Section 1.5** for the lengths and the reasons.
 - Music: low, royalty-free or Meta Sound Collection only; voice is the hero
 - End card (2–3 s): AI Employee Flow graphic + "শিখবেন না — বানাবেন" + "WhatsApp করুন" ("Message us on WhatsApp")
 - **No third-party logos** as the hero (Fiverr, Upwork, ChatGPT, competitor brands). Generic UI only. Tool names like n8n may appear on screen where they're genuinely used.
+
+### 1.5 Video length: what to make and why
+
+| Video type | Length | Why this length |
+|---|---|---|
+| **Cold story ad (Week 1)** | **30–45 s** | A story needs a hook, a setup, a twist and the real demo. Under ~25 s the 5-step system turns into a blur and viewers don't understand what they'd build. Over ~45 s, cold viewers drop off before the demo and the WhatsApp call to action. |
+| **Cutdown of each story** | **15–20 s** | Tested in **Week 2 only**, on the winning story. It shows whether a shorter version gets more people to stop and stay, and lowers cost per chat. Edited from the full version, never filmed separately. |
+| **"One-minute build" (ST5)** | **45–60 s** | The visible timer *is* the idea, so it needs room to run in real time. |
+| **Warm retargeting (Week 3)** | **60–90 s** | These viewers already know us. A longer video can answer an objection properly (YouTube vs live, coding, missed classes). |
+| **Organic Reels / Live replay** | Up to 2–3 min | Followers and group members watch full builds. Longer watch time also grows the retargeting pool. |
+
+**Why not just make everything short?** The campaign optimises for **WhatsApp conversations**, not views. A 15-second clip might get cheaper views, but the people who watch a 40-second story to the end and *then* message are the ones who understand the offer. That's what lowers cost per *qualified* chat, the metric that matters.
+
+**Why not test length in Week 1?** One variable at a time. Week 1 tests **which story** works. If we also tested lengths, we couldn't tell whether the story or the length made the difference.
+
+**Beat structure for a ~40-second story**
+
+| Time | Beat | Rule |
+|---|---|---|
+| 0–3 s | **Hook** | The story's tension is clear with sound off, through on-screen Bangla text |
+| 3–15 s | **Setup / problem** | One scene, one problem, no backstory |
+| 15–30 s | **Twist + real demo** | The AI employee appears by **~15 s** at the latest |
+| 30–36 s | **Founder line** | "আমরা ক্লায়েন্টদের জন্য এটা বানাই — এবার আপনি বানাবেন।" ("We build this for clients — now you'll build it.") |
+| 36–40 s | **End card + CTA** | AI Employee Flow · শিখবেন না — বানাবেন · ৳৩,৯৯৯ · WhatsApp করুন |
+
+Add a small "WhatsApp করুন" ("Message us on WhatsApp") text once around the middle, for people who decide early.
+
+**Competitor reference:** the research didn't record competitor video lengths. The only one captured was a Next Digit Learner n8n video at 1:46. What it did record is that most competitor AI ads are **under a month old** (refreshed every 2–4 weeks), while the two longest-running (Ostad's free workshop and MSB's n8n course) have run about 3 months. So plan to refresh hooks **weekly**, which the Week 2 plan already does.
 
 ---
 
@@ -132,12 +161,24 @@ Shoot everything once; edit into Weeks 1–3.
 | S8 | Certificate mock-up "Built: [Project]" + QR scan to demo on a phone | Design + any hand | B1, HO6, statics |
 | S9 | Class-format proof: Zoom-style live class screen, recording library view | Builder | HO3, Week 3 |
 | S10 | Founder: Live session promo (15 s) — "বৃহস্পতিবার রাত ৯টা, লাইভে একটা AI Employee বানাবো" ("Thursday 9 PM, I'll build an AI employee live") | Founder | Organic + WhatsApp Status, Week 2 |
+| S11 | **Interview scene (ST1):** office desk, owner asking questions; off-screen calm voice answering; final reveal of a laptop on the candidate's chair showing the AI Employee Flow | 1 actor + 1 voice | ST1 |
+| S12 | **Office scene (ST4):** boss hands over "100 leads"; employee copy-pasting into a generic AI chat UI, then Messenger, then a sheet; wall clock / time-lapse 5 PM → 11 PM | 2 actors | ST4 |
+| S13 | **One-minute build, continuous take (ST5):** founder with a visible 60 s timer; team member sends a real Messenger message on camera; screen captures every step live. **Shoot 3+ takes** | Founder + 1 | ST5 |
+| S14 | **Client chat + QR test (ST3):** generic client chat UI; typing and deleting "Sorry, I don't do that"; a second phone scans the certificate QR and tests the demo | Hands only | ST3 (extends S7/S8) |
+| S15 | *(Reserve)* **Night scene (ST2):** owner asleep, phone buzzing on a bedside table; morning wake-up to unread chats | 1 actor | ST2 |
+
+> With the story scenes, plan **1.5 shoot days**. Use team members as actors; every scene is a **dramatisation**, never presented as a real student or client.
 
 ---
 
-## 4. PAID — Week 1 (Mon 12 – Fri 16 Oct): Find the Angle
+## 4. PAID — Week 1 Demo-Led Scripts (A1 / B1 / C1)
 
-**Setup reminder:** 1 campaign · 1 ad set · 3 ads · ৳200/day · CTA button **"Send WhatsApp message"** · every ad has its own prefilled message code.
+> **Updated 8 Oct:** Week 1 now runs the **story ads in Section 4A** at ৳1,000/day. Keep these three scripts because:
+> 1. **Their demo sequence (S1) is the middle of every story ad.**
+> 2. They're ready-made **backups**: if a story fails to deliver or can't be shot in time, swap in the matching script (ST1 ↔ A1, ST3 ↔ B1, ST4/ST5 ↔ C1).
+> 3. Their primary text is reused as the ad copy for the stories (see 4A.6).
+>
+> CTA button **"Send WhatsApp message"** · every ad has its own prefilled message code.
 
 ### 4.1 Ad A1 — Business Pain Demo *(persona: agency / business operator)*
 
@@ -265,23 +306,221 @@ NextAI ব্যবসার জন্য AI agent আর automation বান�
 - Sub: **"প্রোডাকশন বিল্ডারদের সাথে লাইভ বাংলা ক্লাসে নিজের AI Employee বানান"** ("Build your own AI employee in live Bangla classes with production builders")
 - Footer: Adnan Arefin · Founder, NextAI · ৳৩,৯৯৯
 
-### 4.4 Week 1 deliverables checklist
+### 4.4 Backup deliverables (lower priority than Section 4A)
 
 | ID | Asset | Sizes | Due |
 |---|---|---|---|
-| A1 | Video 30–35 s | 9:16 + 4:5 | Sun 11 Oct |
-| B1 | Video 30 s | 9:16 + 4:5 | Sun 11 Oct |
-| C1 | Video 35–45 s | 9:16 + 4:5 | Sun 11 Oct |
-| A1-S, B1-S, C1-S | Static backups | 4:5 + 9:16 | Sun 11 Oct |
+| A1 / B1 / C1 | Demo-led videos (backups) | 9:16 + 4:5 | Edit only if a story ad can't be delivered |
+| A1-S, B1-S, C1-S | Static backups | 4:5 + 9:16 | Sun 11 Oct (quick to make) |
 | FLOW | AI Employee Flow graphic (master) | 1080×1080, transparent PNG | Thu 8 Oct (needed for everything) |
-
-*Statics are backups: use them only if a video isn't ready, or as a 4th ad if Week 1 runs ahead of budget.*
 
 ---
 
-## 5. PAID — Week 2 (Mon 19 – Fri 23 Oct): Branch on the Winning Angle
+## 4A. PAID — Week 1 Story Ads (Mon 12 – Sun 18 Oct · ৳1,000/day × 7 days)
 
-**Rule:** keep the **message and body** of the winning Week 1 ad, and change **only the first 2–3 seconds**. Produce **3 new hook versions** over the weekend (17–18 Oct), using footage already shot.
+### 4A.1 Budget and test setup
+
+| Item | Setting | Reason |
+|---|---|---|
+| **Budget** | ৳1,000/day × 7 days = **৳7,000** media (+ ~15–20% VAT/bank charges) | Updated 8 Oct. ⚠️ The client intake called ৳1,000 a "micro-test", so **confirm the Founder has approved ৳7,000 for Week 1** |
+| **Dates** | Mon 12 – Sun 18 Oct | 7 full days, including a weekend, so we see weekday and weekend behaviour |
+| **Campaign** | Engagement → Messaging apps → WhatsApp → maximise conversations | Same as the Meta plan, Section 3 |
+| **Structure** | **1 campaign · 4 ad sets × ৳250/day · 1 story ad per ad set** | See below |
+| **Audience (all 4)** | Bangladesh, 22–40, broad + Advantage+ audience suggestions | Same audience, so the **story is the only variable** |
+| **Ads** | ST1, ST3, ST4, ST5 (full 30–45 s versions, 9:16 + 4:5) | One story per angle and persona (4A.4) |
+
+**Why 4 ad sets instead of 1 (a change from the plan):**
+- What we care about is a **qualified chat that turns into a payment**. Meta can't see that because WhatsApp sales don't report back. Meta optimises only for *any* chat.
+- In a single ad set, Meta would push budget to whichever story gets the cheapest chats, even if those chats are students who won't buy. **Equal spend (~৳1,750 per story) gives every story a fair test.**
+- At the old ৳200/day this split was too thin. At ৳1,000/day, ৳250 per story per day is enough to read.
+- **Trade-off:** four ad sets with the same audience compete a little in the auction, and each learns more slowly. That's acceptable for one test week. In Week 2 we consolidate into the winner.
+
+**Learning:** at an assumed ৳15–35 per chat, ৳7,000 could bring roughly **200–450 chats in the week**. That's well above the ~50 results Meta needs to stabilise delivery, which the old ৳1,000 budget couldn't reach. *These figures are planning assumptions; replace them with Day 1–3 actuals.*
+
+### 4A.2 Check-ins during the week
+
+| When | Check | Action |
+|---|---|---|
+| **Day 1–2** (Mon–Tue) | Delivery is running; closer reply time | Fix only things that are broken (rejected ad, wrong WhatsApp number) |
+| **Day 3** (Wed 14) | Hook rate, cost per chat, junk placements, closer load | Pause only if clearly broken: cost per chat > ৳60 **or** hook rate < 15% after ≥ ৳500 spend |
+| **Day 4** (Thu 15) | **Mid-test decision** | Pause any story with cost per chat > ৳40 after ≥ ৳800 spend, **or** qualified rate < 30% after ≥ 15 chats. Move its ৳250 to the best ad set. **Start briefing Week 2 hooks for the leader now**, so creative is ready by Sun 18 |
+| **Mon 19 (morning)** | Full scorecard (Meta plan, Section 7) by story code | Pick the winner. Keep it running on Mon 19 while Week 2 hooks go live **Tue 20 Oct** |
+
+**⚠️ WhatsApp capacity:** 30–65 chats a day is more than one person can answer within 30 minutes. Before launch:
+- put a **second person** on WhatsApp Business (linked device)
+- load all **quick replies**
+- if reply time slips past 30 minutes, **lower the budget to ~৳600/day** rather than let leads go cold
+
+### 4A.3 Why story ads work in today's Meta market (October 2026)
+
+1. **Creative now does the targeting.** Meta's newer ad-matching system decides *who* sees an ad mostly from the ad itself. Four stories with clearly different characters (a shop owner, a freelancer, an office marketer, the founder) work like **four different audiences inside one broad target**. A freelancer sees himself in ST3; a business owner sees herself in ST1.
+2. **Meta rewards different-looking ads.** Since Aug 2026, Ads Manager rates **creative diversity**. Four distinct stories (comedy, freelancer drama, office scene, live proof) count as genuinely different concepts. Four text variants of one video wouldn't.
+3. **Every competitor ad looks the same.** Our research found long Bangla copy, a syllabus list, "career" or "income" promises and scarcity tactics (Ostad, MSB, Codemanbd, Next Digit Learner). An ad with **characters and a twist** breaks that pattern in the feed.
+4. **Reels-first, sound-off viewing.** Most ad inventory today is short vertical video, often watched muted. Stories carried by on-screen Bangla text and visible action (a twist, a timer, a deleted message) work without sound.
+5. **We have no testimonials yet.** Competitors show "1,103 students" and "22,000 attendees". We can't. Relatable dramatised situations plus the **real system working on screen** and the founder on camera replace social proof honestly. Actors play scenes; nobody pretends to be a student.
+6. **Stories end on a question WhatsApp can answer.** Each story leaves the viewer thinking "could I build this?". The Click-to-WhatsApp button and the "answer 2 questions" call to action pick up exactly that thought.
+7. **The bigger budget makes learning possible** (4A.1). Meta can now gather enough conversations to optimise properly, so the creative test reflects real performance.
+
+### 4A.4 The six story ideas
+
+**Week 1 lineup:** run **ST1, ST3, ST4, ST5**. **ST2** and **ST6** are reserves, used for Week 2 or as swaps.
+
+| ID | Story | Angle | Persona | Full / cutdown | Effort | Week 1? |
+|---|---|---|---|---|---|---|
+| **ST1** | নতুন এমপ্লয়ির ইন্টারভিউ (The new employee's interview) | A — Business pain | Business/agency owner | 35–40 s / 20 s | Medium | ✅ |
+| ST2 | রাত ১১টার মেসেজ (The 11 PM message) | A — Business pain | F-commerce owner | 30–35 s / 15 s | Low–medium | Reserve |
+| **ST3** | ক্লায়েন্টের সেই প্রশ্ন (The client's question) | B — Sell a service | Freelancer (#1 buyer) | 30 s / 15 s | Low | ✅ |
+| **ST4** | "ChatGPT তো জানি!" ("I already know ChatGPT!") | C — Builder proof | Marketer / career-switcher | 35 s / 20 s | Low | ✅ |
+| **ST5** | এক মিনিটে পুরো সিস্টেম (The whole system in one minute) | C — Builder proof | All | 45–60 s / 25 s | Lowest | ✅ |
+| ST6 | একটা লিডের যাত্রা (A lead's journey) | A — Business pain | All | 20–25 s / — | Medium (motion design) | Reserve |
+
+**Why this lineup:** it covers all three angles and three personas (business owner, freelancer, marketer/career-switcher), plus one pure proof ad. It mixes four different tones (comedy, drama, office satire, live proof) for creative diversity. ST2 overlaps ST1's angle, so it waits for Week 2. ST6 needs motion design time.
+
+---
+
+#### ST1 — নতুন এমপ্লয়ির ইন্টারভিউ (The new employee's interview) · 35–40 s ✅
+
+| Time | Visual | On-screen text / dialogue (Bangla) |
+|---|---|---|
+| 0–3 s | Office desk, owner facing an out-of-frame candidate | Text: **নতুন এমপ্লয়ির ইন্টারভিউ** (The new employee's interview) · Owner: "রাতে কাজ করতে পারবেন?" ("Can you work nights?") · Calm voice: "পারবো।" ("Yes.") |
+| 3–10 s | Quick cuts, owner increasingly impressed | "ছুটি লাগবে?" ("Need days off?") — "না।" ("No.") · "বাংলায় কাস্টমারের সাথে কথা বলতে পারবেন?" ("Can you talk to customers in Bangla?") — "পারবো।" ("Yes.") · "সপ্তাহ শেষে রিপোর্ট?" ("A report at the end of the week?") — "দেবো।" ("I'll send it.") |
+| 10–14 s | **Twist:** camera turns; the "candidate" is a laptop on the chair showing the AI Employee Flow | Text: **এ মানুষ না। এ AI Employee।** (It's not a person. It's an AI employee.) |
+| 14–28 s | S1 demo: a 2:07 AM message "ভাই, এটা কি স্টকে আছে?" ("Bhai, is this in stock?") → AI replies → sheet → WhatsApp → report | Step labels ①–⑤ pop in |
+| 28–34 s | Founder to camera | "আমরা ক্লায়েন্টদের জন্য এই এমপ্লয়ি বানাই। হায়ার করতে হবে না — লাইভ বাংলা ক্লাসে নিজে বানাবেন।" ("We build this employee for clients. You don't need to hire it — you'll build it yourself in live Bangla classes.") |
+| 34–38 s | End card | শিখবেন না — বানাবেন · ৳৩,৯৯৯ · WhatsApp করুন |
+
+**Why it works now:** comedy with a twist is one of the most shared formats on Reels, and the reveal explains "AI employee" in about 10 seconds without any jargon. It speaks to the business owner's real pain (nobody replies at night) without claiming sales results.
+**Guardrails:** the 2:07 AM message is on a demo account. No "salary saved" or cost-saving claims.
+
+---
+
+#### ST2 — রাত ১১টার মেসেজ (The 11 PM message) · 30–35 s · Reserve
+
+| Time | Beat |
+|---|---|
+| 0–3 s | Owner asleep; phone buzzing. Text: **রাত ১১টা। কাস্টমার: "প্রাইস কত?"** (11 PM. Customer: "What's the price?") |
+| 3–10 s | The customer waits, then messages another page. Morning: the owner wakes to **12 unanswered chats** (demo) |
+| 10–13 s | **Rewind** effect. Text: **একই রাত। এবার AI Employee সহ।** (Same night. This time with an AI employee.) |
+| 13–26 s | S1 demo: instant reply → sheet → in the morning, a hot lead is waiting on WhatsApp |
+| 26–35 s | Founder line + end card |
+
+**Why it works now:** the before/after rewind is simple, emotional and shows the core pain ("leads die in Messenger") most directly.
+**Guardrail:** end on "a lead waiting on WhatsApp", **not** "a sale made". No results claims.
+
+---
+
+#### ST3 — ক্লায়েন্টের সেই প্রশ্ন (The client's question) · 30 s ✅
+
+| Time | Visual | On-screen text / dialogue |
+|---|---|---|
+| 0–3 s | Generic client chat UI: *"Can you build an AI chatbot + CRM for my business?"* | Text: **ক্লায়েন্ট AI চাইলে আপনি কী বলবেন?** (What will you say when a client asks for AI?) |
+| 3–7 s | Freelancer's hands type "Sorry, I don't do that…", pause, then delete it | Text: **অনেকে এখানেই কাজটা হারায়।** (This is where many lose the job.) |
+| 7–9 s | Transition | Text: **পরের বার…** (Next time…) |
+| 9–20 s | Freelancer sends a demo link plus the **"Built: AI Employee" certificate QR**; client's phone scans it, types a test message, the AI replies, a row appears in the sheet | Step labels |
+| 20–24 s | Client replies (dramatised): *"This is exactly what I need. Can we get on a call?"* | — |
+| 24–30 s | End text + end card | **কোনো ইনকাম গ্যারান্টি নেই — আছে একটা কাজ করা সিস্টেম, যেটা আপনি নিজে বানাবেন।** (No income guarantee — just a working system you build yourself.) · WhatsApp করুন |
+
+**Why it works now:** it targets the #1 buyer with their exact fear: a client asking for AI and having to say no. Freelancers in Bangladesh see "AI service" ads from many sellers; this one shows **proof they can hand to a client** (the QR demo) instead of an income promise.
+**Guardrails:** no Fiverr/Upwork logos; no earnings shown; the client message is clearly a dramatisation.
+
+---
+
+#### ST4 — "ChatGPT তো জানি!" ("I already know ChatGPT!") · 35 s ✅
+
+| Time | Visual | On-screen text / dialogue |
+|---|---|---|
+| 0–3 s | Boss puts a list on the desk | Text: **১০০টা লিড। আজকের মধ্যে রিপ্লাই + শিট।** (100 leads. Replies + sheet by today.) · Employee, confident: "সমস্যা নেই, ChatGPT তো জানি!" ("No problem, I know ChatGPT!") |
+| 3–12 s | Montage: copy a lead → paste into a **generic AI chat UI** → copy the answer → paste into Messenger → type it into the sheet. Clock 5 PM → 11 PM | Counter: **১৪/১০০** (14/100) |
+| 12–15 s | Founder steps in | "ChatGPT ব্যবহার করা আর AI দিয়ে কাজ করানো — এক জিনিস না।" ("Using ChatGPT and getting AI to do the work aren't the same thing.") |
+| 15–28 s | S1 demo processing the batch: replies sent, sheet fills, hot leads go to WhatsApp | Counter runs to **১০০/১০০** (100/100) *(only if the demo really processes a batch)* |
+| 28–35 s | Founder + end card | "এটা টুল চালানো না — সিস্টেম বানানো। ক্লাসে আপনি নিজে বানাবেন।" ("This isn't using a tool — it's building a system. You'll build it yourself in class.") |
+
+**Why it works now:** nearly everyone in our audience already "knows ChatGPT", and most competing ads sell AI-tool literacy. This story separates NextAI from all of them in one scene, and it speaks to the marketer and career-switcher persona.
+**Guardrails:** friendly tone, laughing *with* the employee. No ChatGPT logo (generic UI). Show only what the demo actually does.
+
+---
+
+#### ST5 — এক মিনিটে পুরো সিস্টেম (The whole system in one minute) · 45–60 s ✅
+
+| Time | Visual | On-screen text / dialogue |
+|---|---|---|
+| 0–3 s | Founder holding a phone with a **60-second timer** | Text: **৬০ সেকেন্ড। একটা লিড।** (60 seconds. One lead.) · Founder: "একজন কাস্টমার এখন মেসেজ করবে — দেখুন কী হয়।" ("A customer will message now — watch what happens.") |
+| 3–8 s | A team member sends a real Messenger message on camera: "ভাই, এই প্রোডাক্টটার দাম কত?" ("Bhai, what's the price of this product?") | Timer running |
+| 8–40 s | Split screen of founder and screen. Founder narrates each step **as it happens** | "রিপ্লাই গেলো… শিটে উঠলো… সিরিয়াস লিড, তাই WhatsApp-এ টিমের কাছে গেলো… আর সাপ্তাহিক রিপোর্টে যোগ হলো।" ("Reply sent… logged to the sheet… it's a serious lead, so it went to the team on WhatsApp… and it's added to the weekly report.") |
+| 40–50 s | Timer stops at its real time | Founder: "এটাই ক্লাসে আপনি নিজে বানাবেন — শুরু থেকে শেষ।" ("This is what you'll build yourself in class — start to finish.") |
+| 50–55 s | End card | শিখবেন না — বানাবেন · ৳৩,৯৯৯ · WhatsApp করুন |
+
+**Why it works now:** live, unedited proof is the strongest honest answer to having no testimonials yet. Competitors show student counts; we show the actual thing working. It's also the cheapest story to produce.
+**Guardrails:**
+- The demo part must be **one continuous take**. Say "no edits" only if that's true.
+- Practise beforehand. If a step takes longer than 60 seconds, show the real time; don't fake it.
+
+---
+
+#### ST6 — একটা লিডের যাত্রা (A lead's journey) · 20–25 s · Reserve
+
+| Time | Beat |
+|---|---|
+| 0–3 s | Animated message bubble: **"ভাই, এটা কি স্টকে আছে?"** ("Bhai, is this in stock?") Text: **এই মেসেজটার কী হয়?** (What happens to this message?) |
+| 3–18 s | The bubble travels through the AI Employee Flow: answered → becomes a CRM row → jumps to WhatsApp → becomes a dot on the weekly report chart |
+| 18–25 s | Founder voice-over: "এই পুরো পথটা আপনি নিজে বানাবেন।" ("You'll build this whole path yourself.") + end card |
+
+**Why it works now:** it looks completely different from the live-action ads, which boosts creative diversity. It's also easy to recut into Week 2 hooks and to reuse as an organic explainer.
+
+---
+
+### 4A.5 Week 1 → Week 2 mapping
+
+| If this story wins | Week 2 branch (Section 5) | Also test in Week 2 |
+|---|---|---|
+| ST1, ST2 or ST6 | **Branch A** (business pain hooks) | Full vs 15–20 s cutdown of the winner |
+| ST3 | **Branch B** (freelancer hooks) | Full vs cutdown |
+| ST4 or ST5 | **Branch C** (builder proof hooks) | Full vs cutdown |
+| Story ad wins on hook rate but loses on qualified rate | Same branch, but make the business or freelance context explicit in the first 3 s | — |
+
+### 4A.6 Ad copy and WhatsApp codes
+
+| ID | Primary text | Headline | Prefilled WhatsApp message |
+|---|---|---|---|
+| ST1 | **A1 copy**, with the first two lines replaced by: "এমন একজন এমপ্লয়ি চান যে রাতেও রিপ্লাই দেয়, ছুটি নেয় না, আর সপ্তাহ শেষে রিপোর্ট দেয়? 🤖" ("Want an employee who replies at night, never takes a day off and sends a report every week?") | নিজের AI Employee বানান (Build your own AI employee) | `হ্যালো! AI Employee কোর্স সম্পর্কে জানতে চাই [ST1]` |
+| ST3 | **B1 copy** (unchanged) | ক্লায়েন্টের জন্য AI সিস্টেম বানানো শিখুন (Learn to build AI systems for clients) | `… [ST3]` |
+| ST4 | New copy, below | ChatGPT জানা ≠ AI দিয়ে কাজ করানো (Knowing ChatGPT ≠ getting AI to do the work) | `… [ST4]` |
+| ST5 | **C1 copy**, with the first line replaced by: "৬০ সেকেন্ডে একটা লিড — রিপ্লাই থেকে রিপোর্ট পর্যন্ত। দেখুন।" ("One lead in 60 seconds — from reply to report. Watch.") | যারা বানায়, তাদের কাছ থেকে শিখুন (Learn from people who build) | `… [ST5]` |
+
+**ST4 primary text**
+```
+ChatGPT সবাই জানে। কিন্তু ১০০টা লিডের রিপ্লাই, শিট আপডেট আর ফলো-আপ — এখনো কপি-পেস্ট করে করছেন? 😅
+
+ChatGPT ব্যবহার করা আর AI দিয়ে কাজ করানো — এক জিনিস না।
+
+এই কোর্সে আপনি নিজে বানাবেন একটা AI Employee:
+লিড → রিপ্লাই → CRM → WhatsApp হ্যান্ডঅফ → সাপ্তাহিক রিপোর্ট
+
+✔ লাইভ বাংলা ক্লাস · মিস করলে সেদিনই রেকর্ডিং
+✔ যারা ক্লায়েন্টদের জন্য এটা বানায়, তাদের কাছ থেকে শিখবেন
+৳৩,৯৯৯ · শিখবেন না — বানাবেন।
+
+👉 WhatsApp করুন — ২টা প্রশ্নের উত্তর দিন।
+```
+*(Gist: Everyone knows ChatGPT, but are you still copy-pasting replies, sheet updates and follow-ups for 100 leads? Using ChatGPT isn't the same as getting AI to do the work. Build an AI employee in live Bangla classes, ৳3,999.)*
+
+### 4A.7 Week 1 story deliverables
+
+| ID | Asset | Sizes | Due |
+|---|---|---|---|
+| ST1 | Story video 35–40 s | 9:16 + 4:5 | Sun 11 Oct |
+| ST3 | Story video 30 s | 9:16 + 4:5 | Sun 11 Oct |
+| ST4 | Story video 35 s | 9:16 + 4:5 | Sun 11 Oct |
+| ST5 | Story video 45–60 s | 9:16 + 4:5 | Sun 11 Oct |
+| ST1/3/4/5-CUT | 15–25 s cutdowns (edited from the full versions) | 9:16 | Sun 18 Oct (for Week 2) |
+| ST2 | Reserve story (shoot S15 if time allows) | 9:16 + 4:5 | Sun 18 Oct |
+| ST6 | Reserve motion story | 9:16 | Optional, Sun 18 Oct |
+
+---
+
+## 5. PAID — Week 2 (Tue 20 – Sun 25 Oct): Branch on the Winning Angle
+
+**Rule:** keep the **message and body** of the winning Week 1 story, and change **only the first 2–3 seconds**. Produce **3 new hook versions by Sun 18 Oct** (briefed at the Day 4 check on Thu 15), using footage already shot. The story → branch mapping is in **4A.5**. Also run the winner's **15–20 s cutdown** against its full version.
 
 ### Branch A wins (business pain)
 | ID | New opening (first 2–3 s) | Visual |
@@ -558,6 +797,8 @@ At each weekend review, the marketer fills in the scorecard (Meta plan, Section 
 | **Cheap chats, low qualified rate** (<30%) | Attracting students / curious viewers | Stronger call-out: show business or client context in the first 3 s; avoid generic "AI শিখুন" ("Learn AI") |
 | **Qualified chats, no payments** | Trust or closing problem, **not** creative | Produce objection clips (R2–R5) sooner; give the closer the clips to send in chat |
 | **One angle wins clearly** | Message found | Week 2 = 3 hooks of that angle (Section 5) |
+| **A story wins on hook/hold but loses on qualified chats** | The story entertains people who aren't buyers | Keep the story; make the business or freelance context explicit in the first 3 s; tighten the founder line |
+| **Cutdown beats full version (Week 2)** | Viewers decide fast | Make 15–20 s the default for Week 3 prospecting; keep full versions for retargeting |
 | **All angles weak** | Offer or proof problem | Lead with C (founder) + Live session; don't add spend until fixed |
 | **Founder ad (C) beats the demos** | Trust is the bottleneck | Use more founder-led content in Week 3 (P2, R2–R5) |
 | **Demo (A/B) beats the founder** | Clarity of the product is the hook | More screen-led variety (P3, P4) |
@@ -571,9 +812,11 @@ At each weekend review, the marketer fills in the scorecard (Meta plan, Section 
 | ID | Type | Size(s) | Angle/Pillar | Week | Due | Owner | Status |
 |---|---|---|---|---|---|---|---|
 | FLOW | Graphic | 1080 sq PNG | Brand | All | Thu 8 Oct | Design | ☐ |
-| A1 / A1-S | Video / Static | 9:16, 4:5 | A | W1 | Sun 11 Oct | Video / Design | ☐ |
-| B1 / B1-S | Video / Static | 9:16, 4:5 | B | W1 | Sun 11 Oct | Video / Design | ☐ |
-| C1 / C1-S | Video / Static | 9:16, 4:5 | C | W1 | Sun 11 Oct | Video / Design | ☐ |
+| **ST1 / ST3 / ST4 / ST5** | **Story videos (Week 1 ads)** | 9:16, 4:5 | A / B / C / C | W1 | **Sun 11 Oct** | Video | ☐ |
+| ST-CUTs | 15–25 s cutdowns | 9:16 | Winner | W2 | Sun 18 Oct | Video | ☐ |
+| ST2 / ST6 | Reserve stories | 9:16, 4:5 | A | W2 | Sun 18 Oct (optional) | Video / Motion | ☐ |
+| A1-S / B1-S / C1-S | Static backups | 9:16, 4:5 | A / B / C | W1 | Sun 11 Oct | Design | ☐ |
+| A1 / B1 / C1 | Demo-led videos (backup only) | 9:16, 4:5 | A / B / C | W1 | Only if a story fails | Video | ☐ |
 | O1–O6 | Organic | Mixed | Mixed | Pre | 7–12 Oct | Content | ☐ |
 | W2-x-H1–H3 | Video re-cuts | 9:16, 4:5 | Winner | W2 | Sun 18 Oct | Video | ☐ |
 | LIVE-P1/P2 | Video / Static | 9:16, 4:5 | Cohort | W2 | Sun 18 Oct | Video / Design | ☐ |
@@ -596,5 +839,6 @@ At each weekend review, the marketer fills in the scorecard (Meta plan, Section 
 - [ ] Date and seat count appear **only** if the Founder has confirmed them
 - [ ] Any client reference is real and approved
 - [ ] Correct ad ID in the file name and the WhatsApp prefilled message
+- [ ] Story scenes are clearly dramatisations: actors never presented as real students or clients; no on-screen earnings
 - [ ] End card: AI Employee Flow + "শিখবেন না — বানাবেন" + "WhatsApp করুন"
 - [ ] 4:5 version exported for Feed

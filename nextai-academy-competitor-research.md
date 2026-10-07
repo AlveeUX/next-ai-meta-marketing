@@ -44,7 +44,7 @@
 | Tier | Competitor | Why they matter | Active Meta ads (BD, 6 Oct) |
 |---|---|---|---|
 | **Direct** | **Ostad** | Category leader; live no-code AI agent course; heavy, long-running ads | ~140 total; ~24 on AI-automation course |
-| **Direct** | **Codemanbd (কোডম্যানবিডি)** | Same funnel as NextAI (Messenger/WhatsApp), similar price, competing batch | 20 total; ~11 AI-related |
+| **Direct** | **Codemanbd** | Same funnel as NextAI (Messenger/WhatsApp), similar price, competing batch | 20 total; ~11 AI-related |
 | **Direct** | **MSB Academy** | **Same ৳3,999 price**, n8n AI agents, 1,100+ students claimed | 15 total; 5 AI-related |
 | **Direct** | **Next Digit Learner** | ৳990 n8n AI-agent course aimed at freelancers | 11 total; 7 AI-related |
 | **Direct (emerging)** | **Creative IT Institute** | Big brand with AI Automation and Agentic AI courses across 5 campus pages | 100+ total; ~30 AI-related |
